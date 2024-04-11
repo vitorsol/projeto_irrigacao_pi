@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016342323151",
+    "project_id": "prototipo-projeto-irrig-ersjpr",
+    "storage_bucket": "prototipo-projeto-irrig-ersjpr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016342323151:android:6a057c81b935b5a2cdbcba",
+        "android_client_info": {
+          "package_name": "com.mycompany.prototipoprojetoirrigacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1-iDcPHNh5WU1gIk8TimFO0sdecHHITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
